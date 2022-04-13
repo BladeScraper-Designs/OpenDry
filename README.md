@@ -5,7 +5,7 @@ An open source, DIY, configurable and adjustable filament dehydrator and dry box
 "Dry" and "Maintain" modes.  Switch between actively drying wet filament and keeping dry filament dry during storage. <br>
 Adjustable target humidity and temperature <br>
 Multiple digital sensors for accurate and consistent readings <br>
-Raspberry Pi Pico (RP2040) at its heart running MicroPython code <br>
+Raspberry Pi Pico (RP2040) Control <br>
 OLED Display and Rotary Encoder User Interface <br>
 PTC Heater Blowers <br>
 2020 Extrusion Construction <br>
